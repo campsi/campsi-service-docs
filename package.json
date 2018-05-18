@@ -12,7 +12,7 @@
     "campsi-find-references": "^1.0.2",
     "json-schema-ref-parser": "^5.0.3",
     "mongodb": "^3.0.3",
-    "string-format": "^1.0.0"
+    "string-format": "^2.0.0"
   },
   "devDependencies": {
     "async": "^2.6.0",
