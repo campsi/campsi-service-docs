@@ -1,6 +1,6 @@
 {
   "name": "campsi-service-docs",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "",
   "main": "lib/index.js",
   "repository": {
@@ -18,7 +18,7 @@
     "async": "^2.6.1",
     "campsi": "^1.0.7",
     "chai": "^4.1.2",
-    "chai-http": "^4.0.0",
+    "chai-http": "^4.2.0",
     "config": "^1.31.0",
     "coveralls": "^3.0.2",
     "debug": "^3.1.0",
