@@ -19,7 +19,7 @@
     "campsi": "^1.0.7",
     "chai": "^4.1.2",
     "chai-http": "^4.2.0",
-    "config": "^1.31.0",
+    "config": "^3.0.0",
     "coveralls": "^3.0.2",
     "debug": "^3.1.0",
     "depcheck": "^0.6.11",
