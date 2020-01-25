@@ -15,7 +15,7 @@
     "string-format": "^1.0.0"
   },
   "devDependencies": {
-    "async": "^2.6.1",
+    "async": "^3.1.1",
     "campsi": "^1.0.7",
     "chai": "^4.1.2",
     "chai-http": "^4.2.0",
